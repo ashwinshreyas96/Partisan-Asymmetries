@@ -1,0 +1,584 @@
+name,polarity,factual,domain
+1600 Daily,Left-Center,Mostly Factual, https://www.whitehouse.gov/1600daily
+604 Now,Left-Center,Mostly Factual, https://604now.com/
+972 Magazine,Left-Center,High, https://972mag.com/
+ABC News,Left-Center,High, https://abcnews.go.com
+ABC News Australia,Left-Center,High, https://www.abc.net.au
+ABC11 Eyewitness News,Left-Center,High, https://abc11.com/
+Above the Law,Left-Center,High, https://abovethelaw.com/
+AceShowbiz (ASB),Left-Center,Mixed, https://www.aceshowbiz.com/
+ACLU,Left-Center,Mixed, https://www.aclu.org/
+Aeon,Left-Center,High, https://aeon.co/
+Affinity Magazine,Left-Center,Mixed, http://affinitymagazine.us/
+African Arguments,Left-Center,High, https://africanarguments.org/
+Ahval News,Left-Center,Mixed, https://ahvalnews.com/
+Akron Beacon Journal,Left-Center,High, https://www.beaconjournal.com/
+Al Jazeera,Left-Center,Mixed, https://www.aljazeera.com/
+Al Monitor,Left-Center,High, https://www.al-monitor.com/
+Al-Sura,Left-Center,Mixed, https://al-sura.com
+Alan Guttmacher Institute,Left-Center,High, https://www.guttmacher.org/
+Albany Times-Union,Left-Center,High, https://www.timesunion.com/
+Alberta Views,Left-Center,High, https://albertaviews.ca
+AllGov,Left-Center,High, http://www.allgov.com
+Allied Progress,Left-Center,High, https://alliedprogress.org
+AM New York,Left-Center,High, https://www.amny.com/
+America Magazine,Left-Center,High, https://www.americamagazine.org/
+American Immigration Council,Left-Center,High, https://www.americanimmigrationcouncil.org
+American Public Media,Left-Center,High,
+American Purpose,Left-Center,High, https://www.americanpurpose.com/
+Amnesty International,Left-Center,High, https://www.amnesty.org/en/
+Anniston Star,Left-Center,High, https://www.annistonstar.com
+Anthropocene Magazine,Left-Center,High, https://www.anthropocenemagazine.org/
+Anti-Defamation League (ADL),Left-Center,High, https://www.adl.org
+AOL,Left-Center,High, https://www.aol.com/
+APM Reports,Left-Center,High, https://www.apmreports.org/
+Ara News,Left-Center,High, http://aranews.net/
+Arizona Daily Star,Left-Center,High, https://tucson.com/
+Arizona Daily Sun,Left-Center,High, https://azdailysun.com
+Arizona Republic,Left-Center,High, https://www.azcentral.com
+Arkansas Times,Left-Center,High, https://www.arktimes.com
+Arms Control Association,Left-Center,High, https://www.armscontrol.org
+ARTE,Left-Center,Mostly Factual, https://www.arte.tv/
+Asheville Citizen-Times,Left-Center,High, https://www.citizen-times.com/
+Asian Correspondent,Left-Center,High, https://asiancorrespondent.com/
+Aspen Institute,Left-Center,High, https://www.aspeninstitute.org/
+Atavist Magazine,Left-Center,Very High, https://magazine.atavist.com/
+Atlanta Black Star,Left-Center,High, https://atlantablackstar.com/
+Atlanta Journal-Constitution,Left-Center,High, https://www.ajc.com/
+Atlantic,Left-Center,High, https://www.theatlantic.com/
+Atlantic Council,Left-Center,High, https://www.atlanticcouncil.org
+Atlantic Media,Left-Center,High, https://www.atlanticmedia.com/
+ATTN:,Left-Center,High, https://www.attn.com/
+Austin American-Statesman,Left-Center,High, https://www.statesman.com/
+Austin Daily Herald,Left-Center,High, https://www.austindailyherald.com/
+AV Club,Left-Center,High, https://www.avclub.com/
+Axios,Left-Center,High, https://www.axios.com/
+BackChannel,Left-Center,High, https://backchannel.com/
+Balkan Insight,Left-Center,High, https://balkaninsight.com/
+Baltimore Sun,Left-Center,High, https://www.baltimoresun.com/
+Bangor Daily News,Left-Center,High, https://bangordailynews.com/
+Baptist News Global,Left-Center,High, https://baptistnews.com/
+Battle Creek Enquirer,Left-Center,High, https://www.battlecreekenquirer.com
+BBC News,Left-Center,High, https://www.bbc.com/news
+Belfer Center for Science and International Affairs,Left-Center,High, https://www.belfercenter.org/
+Bellingcat,Left-Center,High, https://www.bellingcat.com/
+Bellingham Herald,Left-Center,High, https://www.bellinghamherald.com/
+Berkeleyside,Left-Center,High, https://www.berkeleyside.com/
+Berkshire Eagle,Left-Center,High, https://www.berkshireeagle.com/
+Berliner Zeitung,Left-Center,Mostly Factual, https://www.berliner-zeitung.de/
+Bing News,Left-Center,High, https://www.bing.com/news/
+Birmingham Mail,Left-Center,Mostly Factual, https://www.birminghammail.co.uk
+Bleacher Report,Left-Center,Mostly Factual, https://bleacherreport.com/
+Bloomberg,Left-Center,Mostly Factual, https://www.bloomberg.com/
+Bluestem Prairie,Left-Center,High, http://www.bluestemprairie.com/
+Boston Globe,Left-Center,High, https://www.bostonglobe.com/
+Boston.com,Left-Center,High, https://www.boston.com/
+Boy Genius Report,Left-Center,High, bgr.com/
+Brennan Center for Justice,Left-Center,High, https://www.brennancenter.org/
+Bridge Michigan,Left-Center,High, https://www.bridgemi.com/
+Brookings Institute,Left-Center,Very High, https://www.brookings.edu/
+Buffalo News,Left-Center,High, https://www.buffalonews.com/
+Bulletin of Atomic Scientists,Left-Center,High, https://thebulletin.org/
+Business Insider,Left-Center,High, http://www.businessinsider.com/
+Bustle Magazine,Left-Center,Mostly Factual, https://www.bustle.com/
+Buzzfeed,Left-Center,Mixed, https://www.buzzfeed.com/
+Buzzfeed News,Left-Center,Mostly Factual, https://www.buzzfeednews.com/
+CalWatchdog.com,Left-Center,High, https://calwatchdog.com
+Canadaland,Left-Center,High, http://www.canadalandshow.com
+Capital Gazette,Left-Center,High, https://www.capitalgazette.com/
+Caribbean Life News,Left-Center,High, https://www.caribbeanlifenews.com/
+Carnegie Endowment for International Peace,Left-Center,High, https://carnegieendowment.org/
+Carolina Public Press,Left-Center,High, https://carolinapublicpress.org/
+Catch News,Left-Center,Mostly Factual, http://www.catchnews.com
+CBC News,Left-Center,High, https://www.cbc.ca/news
+CBS Boston - WBZ-TV,Left-Center,High, https://boston.cbslocal.com/
+CBS Los Angeles (KCBS),Left-Center,High,
+CBS News,Left-Center,High, https://www.cbsnews.com
+Censor.NET,Left-Center,Mostly Factual, https://censor.net/
+Center for a New American Security,Left-Center,High, https://www.cnas.org/
+Center for Advanced Defense Studies,Left-Center,High, https://c4ads.org/
+Center for Global Development,Left-Center,High, https://www.cgdev.org/
+Center for Inquiry,Left-Center,High, https://centerforinquiry.org
+Center for International Policy,Left-Center,High, https://www.internationalpolicy.org/
+Center for Popular Democracy,Left-Center,High, http://populardemocracy.org/
+Center for Public Integrity,Left-Center,High, https://www.publicintegrity.org/
+Center on Budget and Policy Priorities,Left-Center,High, https://www.cbpp.org/
+Central News Agency (CNA) / Focus Taiwan,Left-Center,High, http://focustaiwan.tw/
+Channel 4 News (UK),Left-Center,High, https://www.channel4.com/news/ 
+Charleston Gazette Mail,Left-Center,High, https://www.wvgazettemail.com/
+Charlotte Observer,Left-Center,High, https://www.charlotteobserver.com
+Cheddar,Left-Center,High, https://cheddar.com
+Chicago Sun-Times,Left-Center,High, https://chicago.suntimes.com/
+China Africa Project,Left-Center,High, https://chinaafricaproject.com/
+Citizen Truth,Left-Center,High, https://citizentruth.org
+Citizens for Responsibility and Ethics in Washington (CREW),Left-Center,High, https://www.citizensforethics.org
+Citizens for Tax Justice,Left-Center,Mostly Factual, https://ctj.org/
+City and State New York,Left-Center,High, https://www.cityandstateny.com/
+City Pages,Left-Center,High, http://www.citypages.com/
+CityLab,Left-Center,High, citylab.com
+Clarion Ledger,Left-Center,High, https://www.clarionledger.com/
+Clean Technica,Left-Center,High, https://cleantechnica.com/
+CNBC,Left-Center,Mostly Factual, https://www.cnbc.com/
+Columbia Journalism Review,Left-Center,High, https://www.cjr.org/
+Columbia Reports,Left-Center,Mixed, https://colombiareports.com
+Columbus Dispatch,Left-Center,High, https://www.dispatch.com/
+Committee to Investigate Russia,Left-Center,High, https://investigaterussia.org
+Common Cause,Left-Center,High, https://www.commoncause.org
+Commonweal Magazine,Left-Center,High, https://www.commonwealmagazine.org
+CommonWealth fund,Left-Center,High, https://www.commonwealthfund.org/
+Complex,Left-Center,Mostly Factual, https://www.complex.com/
+Connecticut Post,Left-Center,High, https://www.ctpost.com
+Consortium News,Left-Center,Mostly Factual, https://consortiumnews.com/
+Constitution Project,Left-Center,Mostly Factual, https://constitutionproject.org/
+Corporate Presidency,Left-Center,High, https://corporatepresidency.org
+Credo Action,Left-Center,High, http://credoaction.com/
+CrossCut.com,Left-Center,High, https://crosscut.com/
+CT Mirror,Left-Center,High, https://ctmirror.org/
+Daily Mirror,Left-Center,Mixed, https://www.mirror.co.uk
+Daily Nation,Left-Center,Mixed, https://nation.africa/
+Daily News Journal,Left-Center,High, https://www.dnj.com/
+Dawn,Left-Center,High, https://www.dawn.com/
+DCist,Left-Center,High, https://dcist.com/
+DCReport.org,Left-Center,High, https://www.dcreport.org/
+Deadline Hollywood,Left-Center,High, https://deadline.com/
+DeathandTaxes,Left-Center,High, http://www.deathandtaxesmag.com/
+Debunking Denialism,Left-Center,High, https://debunkingdenialism.com
+Deccan Herald,Left-Center,Mixed, http://www.deccanherald.com/
+Delaware Online - The News Journal,Left-Center,High, http://www.delawareonline.com/
+Delo,Left-Center,Mostly Factual, https://www.delo.si/
+Democracy 21,Left-Center,High, http://www.democracy21.org/
+Democrat and Chronicle,Left-Center,High, https://www.democratandchronicle.com/
+Demos,Left-Center,High, http://www.demos.org
+Denver Post,Left-Center,High, https://www.denverpost.com/
+Denver Westword,Left-Center,High, https://www.westword.com/
+Detroit Free Press,Left-Center,High, https://www.freep.com/
+Die Zeit,Left-Center,High, https://www.zeit.de/
+Digg,Left-Center,Mostly Factual, https://digg.com/
+Diply,Left-Center,Mixed, https://diply.com/
+DiversityInc,Left-Center,High, http://www.diversityinc.com
+Dutch Daily News,Left-Center,Mostly Factual, http://www.dutchdailynews.com/
+Dutch Review,Left-Center,Mixed, https://dutchreview.com/
+DW News,Left-Center,High, http://www.dw.com/en/top-stories/s-9097
+Earth Institute,Left-Center,High, http://earth.columbia.edu/sections/view/9
+EarthJustice,Left-Center,High, https://earthjustice.org
+East Bay Times,Left-Center,High, https://www.eastbaytimes.com/
+Economic Policy Institute,Left-Center,High, https://www.epi.org
+Economics.Help,Left-Center,High, https://www.economicshelp.org
+Egyptian Streets,Left-Center,Mixed, https://egyptianstreets.com/
+El Diario NY,Left-Center,High, https://eldiariony.com/
+El Pais,Left-Center,High, https://elpais.com/
+El Paso Times,Left-Center,High, https://www.elpasotimes.com/
+Electronic Frontier Foundation,Left-Center,High, https://www.eff.org/
+Emerging Europe,Left-Center,Mostly Factual, https://emerging-europe.com/about/
+Empty Wheel,Left-Center,High, https://www.emptywheel.net/
+Engadget,Left-Center,High, https://www.engadget.com/
+Entertainment Weekly,Left-Center,High, https://ew.com
+ESPN,Left-Center,High, https://www.espn.com/
+EU Observer,Left-Center,High, https://euobserver.com/
+Eugene Register-Guard,Left-Center,High, https://www.registerguard.com/
+EurActiv,Left-Center,High, https://www.euractiv.com/
+Eurasia Group,Left-Center,High, https://www.eurasiagroup.net/
+Euronews,Left-Center,High, https://www.euronews.com
+Exposing the Truth,Left-Center,High, https://www.exposingtruth.com/
+Facebook News,Left-Center,Mostly Factual, https://www.facebook.com/news
+Fact/Myth,Left-Center,High, http://factmyth.com/
+Factbox.TV,Left-Center,High, http://factbox.tv/
+Fairness and Accuracy in Reporting,Left-Center,High, http://fair.org/
+FairVote,Left-Center,High, http://www.fairvote.org/
+Fast Company,Left-Center,High, https://www.fastcompany.com/
+Feminist Frequency,Left-Center,High, https://feministfrequency.com/
+Fight for the Future,Left-Center,High, https://www.fightforthefuture.org
+FivethirtyEight,Left-Center,High, https://fivethirtyeight.com/
+Foreign Policy in Focus,Left-Center,High, http://fpif.org/
+Fort Worth Weekly,Left-Center,High, https://www.fwweekly.com/
+France Info,Left-Center,High, https://www.francetvinfo.fr/
+Freakonomics,Left-Center,High, https://freakonomics.com/
+Free Press,Left-Center,High, https://www.freepress.net/
+Fresno Bee,Left-Center,High, https://www.fresnobee.com/
+Fusion,Left-Center,High, https://fusion.tv/
+Gay Star News,Left-Center,High, https://www.gaystarnews.com/
+Glamour Magazine,Left-Center,High, https://www.glamour.com/
+Global Citizen,Left-Center,High, https://www.globalcitizen.org/en/
+Global News,Left-Center,High, https://globalnews.ca/
+Global Real News,Left-Center,Mixed, https://globalrealnews.com
+Global Risk Insights,Left-Center,High, http://globalriskinsights.com
+GlobalPost,Left-Center,High, http://www.pri.org/programs/globalpost
+GMA Network,Left-Center,Mixed, https://www.gmanetwork.com/
+Gothamist,Left-Center,High, https://gothamist.com/
+Governing Magazine,Left-Center,High, https://www.governing.com/
+Government Accountability Project (GAP),Left-Center,High, https://whistleblower.org/
+Government Executive,Left-Center,High, https://www.govexec.com/
+Greentech Media,Left-Center,High, https://www.greentechmedia.com/
+Grist,Left-Center,High, https://grist.org/
+Gun Violence Archive,Left-Center,High, https://www.gunviolencearchive.org
+Harper's Magazine,Left-Center,High, https://harpers.org
+Hartford Courant,Left-Center,High, http://www.courant.com/
+Harvard Political Review,Left-Center,High, http://harvardpolitics.com/
+Health Magazine,Left-Center,Mixed, Wikipedia
+HealthyWay,Left-Center,High, https://www.healthyway.com
+Heavy,Left-Center,High, https://heavy.com
+Helsingin Sanomat,Left-Center,High, https://www.hs.fi/
+Helsinki Times,Left-Center,High, https://www.helsinkitimes.fi/
+High Country News,Left-Center,High, https://www.hcn.org
+Highline,Left-Center,High, http://highline.huffingtonpost.com
+Hindustan Times,Left-Center,Mixed, https://www.hindustantimes.com/
+History News Network,Left-Center,High, http://historynewsnetwork.org/
+Hollywood Reporter,Left-Center,High, https://www.hollywoodreporter.com/
+Honolulu Civil Beat,Left-Center,High, https://www.civilbeat.org
+Honolulu Star-Advertiser,Left-Center,High, https://www.staradvertiser.com/
+Houston Chronicle,Left-Center,High,
+Human Rights Watch,Left-Center,High, https://www.hrw.org/
+Humanium,Left-Center,High, https://www.humanium.org
+IceNews,Left-Center,Mostly Factual, https://www.icenews.is/
+Idaho Press-Tribune,Left-Center,High, https://www.idahopress.com/
+If America Knew,Left-Center,High, http://ifamericaknew.org/
+IFL Science,Left-Center,Mostly Factual, https://www.iflscience.com/
+Independent Australia,Left-Center,High, https://independentaustralia.net/
+Independent Media Center,Left-Center,High, https://www.indymedia.org/
+iNews,Left-Center,High, https://inews.co.uk/
+Infobae,Left-Center,High, https://www.infobae.com/
+Inquisitr,Left-Center,High, https://www.inquisitr.com/news/
+Inside Edition,Left-Center,High, https://www.insideedition.com
+Inside Higher Ed,Left-Center,High, https://www.insidehighered.com/
+Inside Philanthropy,Left-Center,High, https://www.insidephilanthropy.com
+InsideClimate News,Left-Center,High, https://insideclimatenews.org/
+Insider,Left-Center,High, https://www.insider.com/
+Institute for Middle East Understanding,Left-Center,High, https://imeu.org
+Institute on Taxation and Economic Policy (ITEP),Left-Center,High, https://itep.org/
+International Business Times,Left-Center,Mixed, https://www.ibtimes.com/
+International Center for Research on Women,Left-Center,High, https://www.icrw.org/
+International Crisis Group,Left-Center,Very High, https://www.crisisgroup.org/
+Interpreter Magazine,Left-Center,High, http://www.interpretermag.com/
+Inverse,Left-Center,High, https://www.inverse.com
+Ipolitics,Left-Center,High, https://ipolitics.ca/
+Israel21c,Left-Center,High, https://www.israel21c.org
+Jackson Free Press,Left-Center,High, http://www.jacksonfreepress.com
+Japan Today,Left-Center,High, https://www.japantoday.com/
+Jihadica,Left-Center,High, http://www.jihadica.com/
+Joint Center for Polititical and Economic Studies,Left-Center,High, https://jointcenter.org/
+Journal Politics and Society,Left-Center,Very High, http://www.helvidius.org/
+Jstor Daily,Left-Center,High, http://daily.jstor.org/
+Just Security,Left-Center,High, https://www.justsecurity.org/
+Kansas City Star,Left-Center,High, https://www.kansascity.com
+KCNC-TV - CBS Denver,Left-Center,High, https://denver.cbslocal.com/
+Kenosha News,Left-Center,High, https://www.kenoshanews.com/
+Knight Foundation,Left-Center,High, https://www.knightfoundation.org/
+KOCO News 5,Left-Center,High, http://www.koco.com/
+Kotaku,Left-Center,High, https://kotaku.com
+KOVR - CBS Sacramento,Left-Center,High, https://sacramento.cbslocal.com/
+KQED,Left-Center,High, https://www.kqed.org/
+KUOW NPR,Left-Center,Very High, https://kuow.org/
+Kurdistan 24,Left-Center,Mixed, http://www.kurdistan24.net
+La Presse,Left-Center,High, http://www.lapresse.ca/
+La Repubblica,Left-Center,High, https://www.repubblica.it/
+La Stampa,Left-Center,High, https://www.lastampa.it/
+LA Times,Left-Center,High, https://www.latimes.com/
+Laconia Daily Sun,Left-Center,High, https://www.laconiadailysun.com/
+Las Vegas Sun,Left-Center,High, https://lasvegassun.com
+Latin Times,Left-Center,High, http://www.latintimes.com/
+Law & Crime,Left-Center,High, https://lawandcrime.com/
+Leavenworth Times,Left-Center,High, https://www.leavenworthtimes.com/
+Left Justified,Left-Center,Mixed, http://www.leftjustified.com/
+Lethbridge Herald,Left-Center,High, https://lethbridgeherald.com/
+Lexington Herald Leader,Left-Center,High, http://www.kentucky.com/
+Liberal Mountain,Left-Center,High, http://www.liberalmountain.com/
+Lifehacker,Left-Center,High, https://lifehacker.com/
+Los Angeles Magazine,Left-Center,High, https://www.lamag.com/
+Louisville Courier-Journal,Left-Center,High, https://www.courier-journal.com/
+Maclean's Magazine,Left-Center,High, https://www.macleans.ca
+Maine Beacon,Left-Center,High, http://mainebeacon.com/
+Mainichi Shimbun,Left-Center,High, https://mainichi.jp
+Manila Bulletin,Left-Center,Mixed, https://mb.com.ph
+Maplight,Left-Center,High, http://maplight.org/
+McClatchy DC,Left-Center,High, http://www.mcclatchydc.com/
+MediaFile,Left-Center,High, http://www.mediafiledc.com
+Medium,Left-Center,High, https://medium.com/
+Metro,Left-Center,High, https://www.metro.us/
+Metro UK,Left-Center,Mixed, http://metro.co.uk/
+Mexico Daily News,Left-Center,High, http://mexiconewsdaily.com/
+Miami Herald,Left-Center,High, https://www.miamiherald.com
+Miami New Times,Left-Center,High, http://www.miaminewtimes.com/
+MIC,Left-Center,High, https://mic.com/
+Middle East Eye,Left-Center,Mostly Factual, https://www.middleeasteye.net/ 
+Migration Policy Institute,Left-Center,High, https://www.migrationpolicy.org
+Militarist Monitor,Left-Center,High, https://militarist-monitor.org/
+Milwaukee Journal-Sentinal,Left-Center,High, https://www.jsonline.com/
+Minneapolis Star-Tribune,Left-Center,High, http://www.startribune.com/
+Minnesota Public Radio (MPR),Left-Center,High, https://www.mprnews.org/
+MinnPost,Left-Center,High, https://www.minnpost.com
+Mint Press News,Left-Center,High, http://www.mintpressnews.com/
+Mongabay,Left-Center,High, https://news.mongabay.com
+Moscow Times,Left-Center,High, https://themoscowtimes.com/
+Mother Jones,Left-Center,High, https://www.motherjones.com/
+Mother Nature Network,Left-Center,High, https://www.mnn.com
+MSN.com,Left-Center,High, https://www.msn.com/
+Muncie Voice,Left-Center,High, http://www.muncievoice.com/
+MWC News - Media With Conscience,Left-Center,High, http://mwcnews.net/
+MyCentralJersey.com,Left-Center,High, https://www.mycentraljersey.com/
+Naked Capitalism,Left-Center,High, http://www.nakedcapitalism.com/
+Naples Daily News,Left-Center,High, https://www.naplesnews.com
+National Center for Transgender Equality,Left-Center,High, https://transequality.org
+National Monitor,Left-Center,High, http://natmonitor.com/
+National Newswatch,Left-Center,Mostly Factual, https://www.nationalnewswatch.com/
+National Observer,Left-Center,High, https://www.nationalobserver.com/
+National Youth Right Association,Left-Center,High, http://www.youthrights.org/
+Natural Resource Governance Institute,Left-Center,High, https://resourcegovernance.org/
+Nature Conservancy,Left-Center,High, https://www.nature.org
+NBC Los Angeles - KNBC,Left-Center,High, https://www.nbclosangeles.com/
+NBC News,Left-Center,High, http://www.nbcnews.com/
+NBCNewYork.com,Left-Center,High, https://www.nbcnewyork.com
+NDTV,Left-Center,Mixed, https://www.ndtv.com/
+New America,Left-Center,High, https://www.newamerica.org/
+New Castle News,Left-Center,High, https://www.ncnewsonline.com/
+New England Cable News (NECN),Left-Center,High, http://www.necn.com/
+New Europe,Left-Center,High, https://www.neweurope.eu/
+New Haven Register,Left-Center,High, https://www.nhregister.com/
+New Moderate,Left-Center,Mixed, https://newmoderate.com/
+New York Daily News,Left-Center,High, https://www.nydailynews.com/
+New York Times,Left-Center,High, https://www.nytimes.com/
+News and Guts,Left-Center,Mostly Factual, https://www.newsandguts.com/
+News Deeply,Left-Center,High, https://www.newsdeeply.com
+News1130 & City News,Left-Center,High, https://www.citynews1130.com/
+NewsCenterMaine.com,Left-Center,High, https://www.newscentermaine.com/
+Newsday,Left-Center,High, https://www.newsday.com/
+Newser,Left-Center,High, http://www.newser.com
+NewsGru,Left-Center,Mixed, https://newsgru.com
+Newsweek,Left-Center,Mostly Factual, https://www.newsweek.com/
+Newsy,Left-Center,High, https://www.newsy.com/
+NHK World-Japan,Left-Center,High, https://www3.nhk.or.jp/nhkworld/
+Niagara Gazette,Left-Center,High, https://www.niagara-gazette.com/
+Novinky.cz,Left-Center,Mostly Factual, https://www.novinky.cz/
+NPR,Left-Center,Very High, https://www.npr.org/sections/news/
+Occupy Independents,Left-Center,Mixed, https://occupyindependents.com/
+OCWeekly,Left-Center,High, http://www.ocweekly.com/
+Oil and Water Don't Mix,Left-Center,High,
+OneIndia,Left-Center,Mixed, https://www.oneindia.com/
+Open the Government,Left-Center,Mostly Factual, https://www.openthegovernment.org/
+openDemocracy,Left-Center,High, https://www.opendemocracy.net/
+Opposing Views,Left-Center,Mixed, https://www.opposingviews.com/
+Orlando Sentinel,Left-Center,High, https://www.orlandosentinel.com
+Our World In Data,Left-Center,High, https://ourworldindata.org
+Outside The Beltway,Left-Center,High, http://www.outsidethebeltway.com/
+Ozy Media,Left-Center,High, https://www.ozy.com/
+Pacific Standard Magazine,Left-Center,High, https://psmag.com/
+Palm Beach Daily News,Left-Center,High, https://www.palmbeachdailynews.com/
+Patriotic Millionaires,Left-Center,High, https://patrioticmillionaires.org
+PBS News Hour,Left-Center,High, https://www.pbs.org/newshour/
+Philadelphia Inquirer,Left-Center,High, https://www.inquirer.com/
+Philippine Daily Inquirer,Left-Center,Mostly Factual, https://www.inquirer.net/
+Philly Voice,Left-Center,High,
+Phoenix News Times,Left-Center,High, http://www.phoenixnewtimes.com/
+Political Critique,Left-Center,High, http://politicalcritique.org/
+Politico,Left-Center,High, https://www.politico.com
+Politics That Work,Left-Center,High,  http://politicsthatwork.com/
+Politifact,Left-Center,High, https://www.politifact.com/
+Polygon,Left-Center,High, https://www.polygon.com/
+Population Connection,Left-Center,High, http://www.populationconnection.org
+Portland Press-Herald,Left-Center,High, https://www.pressherald.com/
+Portland Tribune,Left-Center,High, https://pamplinmedia.com
+Positive News,Left-Center,High, https://www.positive.news
+Private Eye,Left-Center,Mixed, https://www.private-eye.co.uk/
+Project on Government Insight,Left-Center,High, https://www.pogo.org/
+Project Syndicate,Left-Center,High, https://www.project-syndicate.org/
+Propublica,Left-Center,High, https://www.propublica.org/
+Prospect Magazine,Left-Center,High, https://www.prospectmagazine.co.uk/
+Providence Journal,Left-Center,High, https://www.providencejournal.com/
+Public Citizen,Left-Center,High, https://www.citizen.org/
+Quartz,Left-Center,High, https://qz.com/
+Radio Free Asia,Left-Center,High, https://www.rfa.org/
+Raleigh News & Observer,Left-Center,High, https://www.newsobserver.com/
+Rappler,Left-Center,High, https://www.rappler.com/
+RationalWiki,Left-Center,High, https://rationalwiki.org/wiki/Main_Page
+Religion News Service,Left-Center,High, http://religionnews.com
+Reno Gazette Journal,Left-Center,High, https://www.rgj.com
+Reveal - Center for Investigative Reporting,Left-Center,High, https://www.revealnews.org/
+Rock Hill Herald,Left-Center,High, https://www.heraldonline.com/
+RocketNews,Left-Center,Mixed, https://www.rocketnews.com/
+Roosevelt Institute,Left-Center,High, https://rooseveltinstitute.org/
+Sacramento Bee,Left-Center,High, https://www.sacbee.com
+Salt Lake Tribune,Left-Center,High, https://www.sltrib.com/
+San Antonio Express,Left-Center,High, https://www.expressnews.com/
+San Diego Free Press,Left-Center,High, https://sandiegofreepress.org/
+San Diego Reader,Left-Center,High, https://www.sandiegoreader.com
+San Francisco Chronicle,Left-Center,High, https://www.sfchronicle.com/
+San Francisco Examiner,Left-Center,High, http://www.sfexaminer.com
+San Francisco Globe,Left-Center,Mixed, https://sfglobe.com/
+San Jose Mercury News,Left-Center,High, https://www.mercurynews.com/
+San Luis Obispo Tribune,Left-Center,High, https://www.sanluisobispo.com/
+Santa Barbara Independent,Left-Center,High, http://www.independent.com/
+Sapiens,Left-Center,High, https://www.sapiens.org
+Saudi Gazette,Left-Center,Mixed, saudigazette.com.sa
+Sciencing,Left-Center,High, https://sciencing.com/
+ScoopWhoop,Left-Center,Mixed, https://www.scoopwhoop.com
+Scroll.in,Left-Center,Mostly Factual, https://scroll.in/
+Seattle Post-Intelligencer,Left-Center,High, https://www.seattlepi.com/
+Seattle Times,Left-Center,High, http://www.seattletimes.com/
+Sentencing Project,Left-Center,High, https://www.sentencingproject.org/
+SFGate,Left-Center,High, https://www.sfgate.com/
+Shame Project,Left-Center,High, http://shameproject.com/
+Snopes,Left-Center,High, https://www.snopes.com/
+Sojourners,Left-Center,High, https://sojo.net/
+SooToday.com,Left-Center,High, https://www.sootoday.com/
+South China Morning Post,Left-Center,Mixed, https://www.scmp.com
+Special Broadcasting Service (SBS),Left-Center,High, https://www.sbs.com.au/
+Spiegel Online (Der Spiegel),Left-Center,High, https://www.spiegel.de/
+Spin (Magazine),Left-Center,High, https://www.spin.com/
+Springfield News-Leader,Left-Center,High, https://www.news-leader.com/
+St. Louis Post-Dispatch,Left-Center,High, https://www.stltoday.com/
+St. Paul Pioneer Press,Left-Center,High, http://www.twincities.com/
+Stamford Advocate,Left-Center,High, https://www.stamfordadvocate.com/
+Star Ledger,Left-Center,High, https://www.nj.com/starledger/
+STAT (News),Left-Center,High, https://www.statnews.com/
+Stepfeed,Left-Center,Mixed, https://stepfeed.com
+Stock News Daily,Left-Center,High, http://stocksnewsdaily.com/
+StopFake,Left-Center,High, https://www.stopfake.org/
+Stuff,Left-Center,High, https://www.stuff.co.nz/
+Sunlight Foundation,Left-Center,High, https://sunlightfoundation.com/
+SWI - Swissinfo.ch,Left-Center,High, https://www.swissinfo.ch/
+Syrian Observatory for Human Rights (SOHR),Left-Center,Mostly Factual, https://www.syriahr.com/
+Tablet Magazine,Left-Center,High, https://www.tabletmag.com/
+Taiwan News,Left-Center,Mostly Factual, https://www.taiwannews.com.tw/
+Tampa Bay Times,Left-Center,High, https://www.tampabay.com
+Tarbell,Left-Center,High, https://tarbell.org
+Tax Justice Network,Left-Center,High, https://www.taxjustice.net/
+Tax Policy Center,Left-Center,High, http://www.taxpolicycenter.org
+TechCrunch,Left-Center,High, https://techcrunch.com
+Techdirt,Left-Center,High, https://www.techdirt.com
+Texas Monthly,Left-Center,High, https://www.texasmonthly.com
+Texas Tribune,Left-Center,High, https://www.texastribune.org/
+The Age (Australia),Left-Center,High, http://www.theage.com.au/
+The Asahi Shimbun,Left-Center,High, http://www.asahi.com/ajw
+The Automatic Earth,Left-Center,High, https://www.theautomaticearth.com/
+The Budapest Beacon,Left-Center,High, https://budapestbeacon.com/
+The Bureau of Investigative Journalism,Left-Center,High, https://www.thebureauinvestigates.com/
+The Century Foundation,Left-Center,High, https://tcf.org/
+The China Post,Left-Center,Mostly Factual, https://chinapost.nownews.com/
+The Christian Left,Left-Center,Mixed, http://www.thechristianleft.org/
+The Chronicle of Higher Education,Left-Center,High, https://www.chronicle.com/ 
+The Citizen,Left-Center,High, https://www.thecitizen.org.au
+The City,Left-Center,High, https://thecity.nyc/
+The Colorado Sun,Left-Center,High, https://coloradosun.com/
+The Coloradoan,Left-Center,High, https://www.coloradoan.com/
+The Council of Canadians,Left-Center,High, https://canadians.org
+The Daily Climate,Left-Center,High, http://www.dailyclimate.org/
+The Daily Hive,Left-Center,High, https://dailyhive.com/
+The Daily Star,Left-Center,High, https://www.thedailystar.com/
+The Daily Tarheel,Left-Center,High, https://www.dailytarheel.com/
+The Dominion Post,Left-Center,High, https://www.dominionpost.com/
+The European Council on Foreign Relations (ECFR),Left-Center,High, http://www.ecfr.eu/
+The Express-Times (Lehigh Valley),Left-Center,High, https://www.lehighvalleylive.com
+The Forward,Left-Center,High, https://forward.com/
+The Frontier,Left-Center,High, https://www.readfrontier.org
+The Fulcrum,Left-Center,Mostly Factual, https://thefulcrum.us/
+The Glasgow Herald,Left-Center,High, https://www.heraldscotland.com/
+The Guardian,Left-Center,Mixed, https://www.theguardian.com
+The Herald (Everett),Left-Center,High, http://www.heraldnet.com/
+The Hill Talk,Left-Center,High, http://thehilltalk.com
+The Hindu,Left-Center,Mostly Factual, https://www.thehindu.com/
+The Humanist Magazine,Left-Center,High, https://thehumanist.com/
+The Independent,Left-Center,Mixed, https://www.independent.co.uk/us
+The Indian Express,Left-Center,Mixed, https://indianexpress.com/
+The Irish Times,Left-Center,High, http://www.irishtimes.com/
+The Irrawaddy,Left-Center,High, https://www.irrawaddy.com/
+The Jakarta Post,Left-Center,Mostly Factual, https://www.thejakartapost.com/
+The Journal News,Left-Center,High, https://www.lohud.com/
+The Korea Times,Left-Center,Mixed, http://www.koreatimes.co.kr
+The Lincoln Project,Left-Center,Mixed, https://lincolnproject.us/
+The List,Left-Center,Mixed, https://www.thelist.com/
+The Local (Norway),Left-Center,High, https://www.thelocal.no/
+The Maui News,Left-Center,High, https://www.mauinews.com/
+The Moderate Voice,Left-Center,High, http://themoderatevoice.com/
+The Motley Fool,Left-Center,High, https://www.fool.com/
+The New Arab,Left-Center,High, https://www.alaraby.co.uk/english
+The New Humanitarian,Left-Center,High, https://www.thenewhumanitarian.org/
+The New Tropic,Left-Center,High, https://thenewtropic.com
+The News Tribune,Left-Center,High, https://www.thenewstribune.com/
+The News-Times (Danbury),Left-Center,High, https://www.newstimes.com/
+The Next Web (TNW),Left-Center,Mixed, https://thenextweb.com
+The Odyssey Online,Left-Center,Mixed, https://www.theodysseyonline.com
+The Olympian,Left-Center,High, http://www.theolympian.com
+The Oslo Times,Left-Center,High, http://www.theoslotimes.com/
+The Palm Beach Post,Left-Center,High, https://www.palmbeachpost.com
+The Patriot-News,Left-Center,High, https://www.pennlive.com/
+The Plain Dealer,Left-Center,High, http://www.cleveland.com/plaindealer/
+The Press Democrat,Left-Center,High, http://www.pressdemocrat.com
+The Pulse,Left-Center,High, http://pulsegulfcoast.com/
+The Record (New Jersey),Left-Center,High, https://www.northjersey.com/
+The Ringer,Left-Center,High, https://www.theringer.com
+The Saturday Paper,Left-Center,High, https://www.thesaturdaypaper.com.au/
+The Skimm,Left-Center,High, http://www.theskimm.com/
+The State,Left-Center,High,  http://www.thestate.com/
+The State Press (Arizona),Left-Center,High, https://www.statepress.com
+The Stranger,Left-Center,High, https://www.thestranger.com/
+The Sun Magazine,Left-Center,High, http://thesunmagazine.org/
+The Sydney Morning Herald,Left-Center,High, https://www.smh.com.au
+The Tab,Left-Center,High, https://thetab.com/
+The Trace,Left-Center,High, https://www.thetrace.org
+The Tyee,Left-Center,Mostly Factual, https://thetyee.ca/
+The Varsity,Left-Center,High, https://thevarsity.ca/
+The Verge,Left-Center,High, https://www.theverge.com/
+The Virginian-Pilot,Left-Center,High, https://www.pilotonline.com/
+The Week UK,Left-Center,High, https://www.theweek.co.uk
+The Wilderness Society,Left-Center,High, http://wilderness.org/
+The Wire - India,Left-Center,Mostly Factual, https://thewire.in/
+TheJournal.ie,Left-Center,High, https://www.thejournal.ie/
+TheWrap,Left-Center,Mixed, https://www.thewrap.com
+Thomson Reuters Foundation,Left-Center,High, https://news.trust.org/
+Thrillist,Left-Center,High, https://www.thrillist.com
+Time Magazine,Left-Center,High, https://time.com/
+Times Colonist,Left-Center,High, https://www.timescolonist.com/
+Times Headline,Left-Center,Mixed, http://www.timesheadline.com
+Times of Israel,Left-Center,High, http://www.timesofisrael.com/
+Times-Picayune,Left-Center,High, https://www.nola.com/
+TMZ,Left-Center,Mixed, https://www.tmz.com/ 
+To Inform is to Influence,Left-Center,High, https://toinformistoinfluence.com/
+Today.com,Left-Center,Mostly Factual, https://www.today.com/
+Tomdispatch.com,Left-Center,High, https://www.tomdispatch.com/
+Toronto Star,Left-Center,High, https://www.thestar.com/
+Truth Be Told,Left-Center,High, http://truthbetold.news/
+Type Media Center,Left-Center,High, https://typemediacenter.org/
+UAWire,Left-Center,Mixed, https://uawire.org/
+Ukrayinska Pravda (The Ukrainian Truth),Left-Center,Mostly Factual, https://www.pravda.com.ua/
+Union of Concerned Scientists,Left-Center,Mostly Factual, https://www.ucsusa.org
+United Federation of Teachers,Left-Center,High, https://www.uft.org/
+University Business,Left-Center,Mixed, https://www.universitybusiness.com/
+Urban Institute,Left-Center,High, https://www.urban.org/
+USA Today,Left-Center,High, https://www.usatoday.com
+UsNews and World Report,Left-Center,High, https://www.usnews.com/
+Utah Public Radio (UTR),Left-Center,High, http://upr.org
+Utica Observer-Dispatch,Left-Center,High, https://www.uticaod.com
+Variety Magazine,Left-Center,High, https://variety.com/
+Vibe,Left-Center,Mixed, https://www.vibe.com/
+Vice News,Left-Center,Mostly Factual, https://www.vice.com/
+Victoria Advocate,Left-Center,High, https://www.victoriaadvocate.com/
+Virginia Mercury,Left-Center,High, https://www.virginiamercury.com
+Vote Vets,Left-Center,Mixed, https://www.votevets.org/
+Vulture,Left-Center,High, http://www.vulture.com
+WalesOnline,Left-Center,High, https://www.walesonline.co.uk/
+Wall Street on Parade,Left-Center,High, https://wallstreetonparade.com/
+WAMU-FM,Left-Center,High,
+Washington Blade,Left-Center,High, http://www.washingtonblade.com/
+Washington Monthly,Left-Center,High, https://washingtonmonthly.com
+Washington Post,Left-Center,Mostly Factual, https://www.washingtonpost.com/
+Western Mass News,Left-Center,High, https://www.westernmassnews.com/
+Whitehouse.gov,Left-Center,Mostly Factual, https://www.whitehouse.gov
+Wikileaks,Left-Center,Mixed, https://www.wikileaks.org/
+Wired Magazine,Left-Center,High, https://www.wired.com/
+WISH-TV,Left-Center,High, https://www.wishtv.com/
+WNYC,Left-Center,High, https://www.wnyc.org/
+World Affairs Journal,Left-Center,High, http://www.worldaffairsjournal.org/
+World Policy Institute,Left-Center,High, http://www.worldpolicy.org/
+World Politics Review,Left-Center,High, https://www.worldpoliticsreview.com/
+World Press Review,Left-Center,Mostly Factual, https://www.worldpress.org/
+World Resources Institute (WRI),Left-Center,High, https://www.wri.org/
+WorldCrunch,Left-Center,High, https://www.worldcrunch.com/
+WRAL,Left-Center,High, https://www.wral.com/
+WRC-TV NBCWashington,Left-Center,High, https://www.nbcwashington.com/
+WSVN,Left-Center,High, https://wsvn.com
+Xinhua News Agency,Left-Center,Mixed," http://www.news.cn/english/ , http://www.xinhuanet.com/english/home.htm"
+Yahoo News,Left-Center,High, https://news.yahoo.com/
+YaleGlobal Online,Left-Center,Very High, https://yaleglobal.yale.edu
+YnetNews,Left-Center,High, http://www.ynetnews.com/
+York Daily Record,Left-Center,High, https://www.ydr.com/
+York Dispatch,Left-Center,High, https://www.yorkdispatch.com
+Youth Radio,Left-Center,High, https://youthradio.org/
